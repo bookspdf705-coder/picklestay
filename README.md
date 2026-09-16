@@ -11,7 +11,7 @@ I’m a Student and a Python developer who enjoys turning ideas into working too
 
 ## 🔧 Top Skills
 - Python (3.x)  
-- Chemistry
+- 
 
 ---
 
