@@ -1,17 +1,16 @@
-# Hi, I’m Parikoder 👋
+# Hi, I'm Parikoder 👋
 
 I build clean, practical Python applications that solve everyday problems — from small utilities to learning-focused systems like PickleStay (a simple hotel management system).
 
 ---
 
 ## 🚀 About Me
-I’m a Student and a Python developer who enjoys turning ideas into working tools. I focus on readable, well-documented code and small projects that teach useful concepts like file I/O, serialization, and command-line interfaces.
+I'm a Student and a Python developer who enjoys turning ideas into working tools. I focus on readable, well-documented code and small projects that teach useful concepts like file I/O, serialization, and basic system design.
 
 ---
 
 ## 🔧 Top Skills
 - Python (3.x)  
-- 
 
 ---
 
@@ -22,8 +21,11 @@ I’m a Student and a Python developer who enjoys turning ideas into working too
 
 ---
 
-## 📦 What I’m Working On
+## 📦 What I'm Working On
 Improving PickleStay with better data validation, modular storage backends, and clearer tests and examples.
+
+### 📄 Documentation
+- [Hotel Grande Inn Document](./HOTEL-GRANDE_INN_PARIKSHITH_XII-A1.docx) — Detailed reference document for the PickleStay hotel management system
 
 ---
 
@@ -43,11 +45,11 @@ I welcome contributions and feedback. If you find a bug or want to propose an im
 
 ## ⚡ Fun Facts
 - I prefer small, focused projects that teach or automate real tasks.  
-- I like code that’s easy for beginners to read and learn from.
+- I like code that's easy for beginners to read and learn from.
 
 ---
 
-If you’d like, I can:
+If you'd like, I can:
 - Add badges (language, license, build), a short portfolio gallery, or links to social profiles.  
 - Turn this into a longer bio or a one-page developer resume.  
 - Add screenshots or usage examples for PickleStay.
