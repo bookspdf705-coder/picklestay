@@ -1,4 +1,4 @@
-# Hi, I’m bookspdf705-coder 👋
+# Hi, I’m Parikoder 👋
 
 I build clean, practical Python applications that solve everyday problems — from small utilities to learning-focused systems like PickleStay (a simple hotel management system).
 
