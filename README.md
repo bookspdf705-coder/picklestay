@@ -348,20 +348,22 @@ Example documented output:
 
 ## 🔄 Program Flow
 
+The following Mermaid diagram uses quoted node labels for compatibility with GitHub's Mermaid renderer.
+
 ```mermaid
 flowchart TD
-    A([Start]) --> B[Display Main Menu]
-    B --> C{Select Operation}
+    A([Start]) --> B["Display Main Menu"]
+    B --> C{"Select Operation"}
 
-    C -->|1| D[ins() - Insert]
-    C -->|2| E[dis() - Display]
-    C -->|3| F[sea() - Search]
-    C -->|4| G[update() - Update]
-    C -->|5| H[delete() - Delete]
-    C -->|6| I[billc() - Billing]
+    C -->|1| D["ins() - Insert"]
+    C -->|2| E["dis() - Display"]
+    C -->|3| F["sea() - Search"]
+    C -->|4| G["update() - Update"]
+    C -->|5| H["delete() - Delete"]
+    C -->|6| I["billc() - Billing"]
     C -->|7| J([Exit])
 
-    D --> K[(data.dat)]
+    D --> K[("data.dat")]
     E --> K
     F --> K
     G --> K
