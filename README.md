@@ -380,6 +380,15 @@ flowchart TD
 
 ---
 
+## 🌐 Other Projects
+
+Explore some of my other deployed projects:
+
+- 🚀 **96V** — [Open Project →](https://96v.vercel.app)
+- 🌱 **Poondu** — [Open Project →](https://poondu.vercel.app)
+
+---
+
 ## 📂 Repository Structure
 
 ```text
